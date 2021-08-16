@@ -1,0 +1,7 @@
+-> Whenever we input any data from user through anything like command prompt, we get it in a string format. Therefore, to get any data in number format, we have to use Number() function.
+
+-> There are multiple ways to input any value to the console, they are -
+    1) console.log()
+    2) console.warn()
+    3) console.error()
+    4) console.table() - This is best to view large objects
